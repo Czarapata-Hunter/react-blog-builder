@@ -59,7 +59,7 @@ export default function Editor({
             <i className="ri-align-left"></i>
           </label>
           <label>
-            <input name="align" type="radio" value="center" />
+            <input name="align" type="radio" value="center" defaultChecked />
             <i className="ri-align-center"></i>
           </label>
           <label>
